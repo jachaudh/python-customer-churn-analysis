@@ -1,0 +1,16 @@
+CustomerID,Age,Tenure,MonthlyCharges,ContractType,Churn
+1001,25,12,55,Monthly,Yes
+1002,32,24,65,Yearly,No
+1003,45,8,80,Monthly,Yes
+1004,29,36,45,Yearly,No
+1005,52,6,95,Monthly,Yes
+1006,38,48,60,Yearly,No
+1007,27,10,75,Monthly,Yes
+1008,41,60,50,Yearly,No
+1009,35,18,70,Monthly,No
+1010,49,4,110,Monthly,Yes
+1011,31,30,58,Yearly,No
+1012,44,7,90,Monthly,Yes
+1013,28,20,65,Yearly,No
+1014,55,3,120,Monthly,Yes
+1015,36,40,55,Yearly,No
